@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Watcher
+- 👋 Hi, I’m The Watcher
 - 👀 I’m interested in trying new stuff :)
 - 🌱 I’m currently learning C & HTML
 - 💞️ Collaborated on HTML quiz
