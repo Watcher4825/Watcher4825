@@ -1,6 +1,6 @@
 - 👋 Hi, I’m The Watcher
 - 👀 I’m interested in trying new stuff :)
-- 🌱 I’m currently learning C, HTML, JS & CSS
+- 🌱 I’m currently learning C, HTML, JS, CSS & Python
 - 💞️ -
 - 📫 How to reach me Discord- username = Watcher#4825
 
